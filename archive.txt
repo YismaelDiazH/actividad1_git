@@ -1,3 +1,5 @@
 Archivo de trabajo colaborativo
 
 Segundo parrafo desde main
+
+Primer parrafo de user2
