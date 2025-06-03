@@ -2,5 +2,12 @@ Archivo de trabajo colaborativo
 
 Segundo parrafo desde main
 
+
+Primer parrafo de user2
+Segundo parrafo de user2
+Tercer parrafo de user2
+Cuarto parrafo de user2
+
 Primer parrafo de user1
 Segundo parrafo de user2
+
